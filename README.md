@@ -17,8 +17,7 @@ Click on this link (https://ashe-eg.github.io/Kevin-Malone-Accounting)
 
 Click on add employee button to add information to the chart
 
-(assets\Opera Snapshot_2024-04-15_192547_ashe-eg.github.io.png)
-
+![alt text](<Opera Snapshot_2024-04-15_192547_ashe-eg.github.io.png>)
 
 ## License
 MIT License
