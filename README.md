@@ -7,7 +7,9 @@ I wanted to make the worst possible service for any accountant out there. I felt
 
 ## Installation
 
-Click on this link
+Click on the link in the deployments section
+or
+Click on this link (https://ashe-eg.github.io/Kevin-Malone-Accounting)
 
 ## Usage
 
